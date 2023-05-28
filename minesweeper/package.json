@@ -1,0 +1,26 @@
+{
+  "name": "mineswepper",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narc2022/Hands-On-React.-Build-advanced-React-JS-Frontend-with-expert.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Sachin Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Narc2022/Hands-On-React.-Build-advanced-React-JS-Frontend-with-expert/issues"
+  },
+  "homepage": "https://github.com/Narc2022/Hands-On-React.-Build-advanced-React-JS-Frontend-with-expert#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
